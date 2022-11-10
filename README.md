@@ -1,5 +1,5 @@
 # Election_Analysis
-##Project Overview
+## Project Overview
 As an excercise for our data bootcamp, we were given the hypothetical situation of being tasked by a Colorado Board of Elections employee to automate certain tasks, specifically to audit a recent local congressional election 
 We were tasked with finding the following data
     1. The total number of votes cast
@@ -8,11 +8,11 @@ We were tasked with finding the following data
     4. The total # of votes each candidate won
     5. The winner of the election based on popular vote
 
-##Resources
+## Resources
 Data Source: election_results.csv
 Software: Python 3.7.6 and Visual Studio Code 1.73.1
 
-##Summary
+## Summary
 The analysis of the election shows that:
     There were 369,711 total votes cast for three candidates, with the following results:
         1. Diana Degette received 73.8% of the vote with 85,213 votes 
