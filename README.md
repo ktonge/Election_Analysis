@@ -19,4 +19,4 @@ There were 369,711 total votes cast for three candidates, with the following res
 2. Charles Casper Stockham received 23.0% of the vote with 272,892 votes
 3. Raymon Anthony Doane recieved 3.1% of the votes with 11,606 votes 
 
-The winner of the election was Diana Degette with 73.8% of the vote with 85,213 votes.  
+> The winner of the election was Diana Degette with 73.8% of the vote with 85,213 votes.  
