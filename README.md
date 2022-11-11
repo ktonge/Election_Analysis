@@ -20,3 +20,10 @@ There were 369,711 total votes cast for three candidates, with the following res
 3. Raymon Anthony Doane recieved 3.1% of the votes with 11,606 votes 
 
 > The winner of the election was Diana Degette with 73.8% of the vote with 85,213 votes.  
+
+# Election Audit Summary
+I had significant challenges getting the code to run at all. I kept repeatedly getting the following error message. 
+
+Overall I was able to show that Jefferson had 10.5% of the turnout, 38855 total votes.  I am planning on resubmitting this challenge. 
+
+I was honestly suprised how much I struggled with this challenge, Python seems really intuitive. I got alot of identation errors, but I was following the provided code really closely.  I tried looking at alot of different potential solutions and comparing my code but I couldn't get the full results.   
