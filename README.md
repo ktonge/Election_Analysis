@@ -15,7 +15,7 @@ Data Source: election_results.csv
 Software: Python 3.7.6 and Visual Studio Code 1.73.1
 I used python to create for loops to run through the election data, determining the information above, then writing that information to a text file. To break things down further, we also looked at voter information broke down by county, and their total voter turn out.  
 
-[deliverable1](/deliverable1.png)
+![deliverable1](/deliverable1.png)
 
 ## Summary
 __Based on the popular vote the winner of the election was Diana DeGette.__
